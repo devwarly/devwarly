@@ -44,15 +44,3 @@ Me chamo Warly Martins, tenho 19 anos. Atualmente estou cursando Análise e Dese
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwarly&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_cout=9"
     />
 </p>
-
-<br>
-
-### Redes Sociais
-<div style="display: flex">
-<a href="https://www.instagram.com/warlyzx?igsh=MXVtMWRoYXRvc3FyMQ==">
-    <button style="padding: 10px; font-size: 17px; cursor: pointer; margin-right: 10px; border-radius: 5px; border: none; background-color: blue; color: white">Instagram</button>
-
-<a href="https://www.tiktok.com/@dev.warly?_t=ZM-8y973cG7rrJ&_r=1">
-    <button style="padding: 10px; font-size: 17px; cursor: pointer; margin-right: 10px; border-radius: 5px; border: none; background-color: black; color: white">TikTok</button>
-
-</div>
