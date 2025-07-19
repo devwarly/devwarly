@@ -35,11 +35,11 @@ Me chamo Warly Martins, tenho 19 anos. Atualmente estou cursando Análise e Dese
 <p style="display: flex">
     <img
         align="left"
-        style="padding-right: 10px" 
+        style="padding-right: 10px; height:150px" 
         src="https://github-readme-stats.vercel.app/api?username=devwarly&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     /><img
         align="left"
-        style="padding-right: 10px; width:355px" 
+        style="padding-right: 10px; height:150px" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwarly&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_cout=9"
     />
 </p>
