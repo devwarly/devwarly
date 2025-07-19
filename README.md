@@ -16,19 +16,19 @@ Me chamo Warly Martins, tenho 19 anos. Atualmente estou cursando Análise e Dese
 
 ### Linguagens e tecnologias
 
-
-<img title="Python" width= "30px" alt="Python" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img title="Java" width= "30px" alt="Java" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img title="Bootstrap" width= "30px" alt="Bootstrap" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img title="CSS" width= "30px" alt="CSS" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img title="HTML" width= "30px" alt="HTML" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img title="MySQL" width= "30px" alt="MySQL" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img title="JavaScript" width= "30px" alt="JavaScript" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img title="Git" width= "30px" alt="Git" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img title="Figma" width= "30px" alt="Figma" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img title="NodeJs" width= "30px" alt="NodeJs" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img title="Linux" width= "30px" alt="Linux" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
+<div style="display: flex; box-sizing: border-box">
+    <img title="Python" width= "30px" alt="Python" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img title="Java" width= "30px" alt="Java" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img title="Bootstrap" width= "30px" alt="Bootstrap" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    <img title="CSS" width= "30px" alt="CSS" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img title="HTML" width= "30px" alt="HTML" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img title="MySQL" width= "30px" alt="MySQL" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img title="JavaScript" width= "30px" alt="JavaScript" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img title="Git" width= "30px" alt="Git" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img title="Figma" width= "30px" alt="Figma" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img title="NodeJs" width= "30px" alt="NodeJs" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img title="Linux" width= "30px" alt="Linux" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
 <br>
 
 ### Estatisticas
