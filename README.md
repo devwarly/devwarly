@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Warly Martins, tenho 19 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na [FASEC](https://serradocarmo.edu.br/). Sou apixonado por tecnologia e gosto sempre de estar buscando mais conhevimento na área.
+Me chamo Warly Martins, tenho 19 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na [FASEC](https://serradocarmo.edu.br/). Sou apaixonado por tecnologia e gosto sempre de estar buscando mais conhevimento na área.
 
 <p align="left">
       </a> 
