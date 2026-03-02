@@ -34,14 +34,6 @@ Desenvolvedor focado em soluções robustas e escaláveis, com sólida base em a
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devwarly&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Warly" height="190px">
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwarly&layout=compact&theme=dark&langs_count=6" alt="Linguagens mais usadas" height="165px">
-
-  <br><br>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devwarly&theme=dark&hide_border=false" alt="GitHub Streak" height="180px">
 </div>
 
