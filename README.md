@@ -1,48 +1,22 @@
-# 💫 About Me
+# Olá! Sou Warly Martins 👋
 
 **Desenvolvedor Backend | Java & Spring Boot | Estudante de Análise e Desenvolvimento de Sistemas**
 
-Sou um desenvolvedor focado no ecossistema **Java**, apaixonado por construir aplicações seguras, organizadas e eficientes. Atualmente, curso o 5º semestre de **Análise e Desenvolvimento de Sistemas na FASEC** e estou em busca da minha **primeira oportunidade de estágio** na área. Possuo sólido raciocínio lógico, facilidade de aprendizado e forte afinidade com boas práticas de engenharia de software e versionamento.
+Sou apaixonado por construir sistemas organizados, seguros e eficientes. Atualmente no 5º semestre na FASEC, busco minha **primeira oportunidade de estágio em Backend**. Tenho perfil analítico, afinidade com o ecossistema Linux e foco em boas práticas de engenharia de software.
 
-### 🚀 Foco Técnico
-
-Minha atuação principal concentra-se no desenvolvimento de **APIs RESTful com Spring Boot** , priorizando a manutenibilidade do código e o uso de boas práticas. Possuo um perfil com forte interesse em infraestrutura: utilizo **Linux (Fedora)** como ambiente principal de desenvolvimento  e tenho experiência prática na construção e integração de sistemas ponta a ponta.
-
-### 🛠️ Core Stack & Expertise
-
-* 
-**Backend & Segurança:** Java, Spring Boot (Web, Data JPA), APIs REST, JWT e integrações OAuth2.
-
-
-* 
-**Banco de Dados:** PostgreSQL, MySQL e Modelagem de Dados Relacional.
-
-
-* 
-**Frontend:** React (Vite), TypeScript, HTML5 e CSS3.
-
-
-* 
-**DevOps & Infraestrutura:** Git/GitHub, Linux (Terminal), Docker, Oracle Cloud e conceitos de Microsserviços.
-
-
+### 🚀 Tecnologias e Ferramentas
+* **Backend:** Java, Spring Boot (Web, Data JPA, Security), REST APIs, JWT, OAuth2.
+* **Banco de Dados:** PostgreSQL, MySQL.
+* **Infra & Ferramentas:** Git/GitHub, Linux (Terminal), Docker, Oracle Cloud.
+* **Frontend:** React (Vite), TypeScript, HTML/CSS.
 
 ### 💻 O que estou construindo
+* 🎓 **Thatent (SaaS):** Rede social acadêmica com autenticação OAuth2 (GitHub/Google), feed, sistema de seguidores e gamificação. *(Java, Spring Boot, React, PostgreSQL)*
+* 💬 **Chat em Tempo Real:** Sistema de mensagens otimizado com foco em baixa latência utilizando Server-Sent Events (SSE). *(Spring Boot, React)*
+* 🔗 **Encurtador de URLs:** API REST focada em performance e tratamento padronizado de exceções HTTP. *(Spring Web, Spring Data JPA)*
 
-* 🎓 **Thatent:** Plataforma SaaS educacional e rede social estudantil com autenticação OAuth2 (GitHub/Google), sistema de reputação e gamificação.
+### 📫 Contato e Redes
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/warly-dev) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:warlymartinssouza@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/warlyzx)
 
-
-* 💬 **Chat em Tempo Real:** Aplicação orientada a eventos utilizando Server-Sent Events (SSE) com Spring Boot e React.
-
-
-* 🔗 **Encurtador de URLs:** API REST focada em performance, tratamento global de exceções e validação de endpoints.
-
-
-
-### 🎯 Objetivos Profissionais
-
-Busco integrar um time colaborativo onde eu possa aplicar meus conhecimentos acadêmicos e práticos em desenvolvimento backend, resolver problemas reais e evoluir continuamente na construção de sistemas escaláveis.
-
-## 🌐 Socials:
-
-# 💻 Tech Stack:
+---
+*Transformando lógica em soluções eficientes.*
